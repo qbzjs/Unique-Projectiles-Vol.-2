@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Red
+  - Plane
+  - Blue
+  - DeadLine
+  - HangLine
+  - RandomItem
+  - Ground
+  - effect
+  - nopool
+  - BoomItem
+  - FlowerGround
+  - JumpStation
+  - loweffect
+  - Stairs
+  - FxTemporaire
+  - Effects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - AirPlane
+  - Player
+  - Sword
+  - HangLine
+  - Imotal
+  - Map
+  - DeadLine
+  - EnemyCheck
+  - Line
+  - HangAttack
+  - Red
+  - Green
+  - OccupationTrigger
+  - Skill
+  - Item
+  - Coffin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
